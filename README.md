@@ -8,6 +8,6 @@ La optimización para moviles sera resulta porteriormente; ya que la pagina data
 
 El sitio esta desplegado en Github Pages puesto que solo se trata de la parte frontend, adicionalmente se comparte tanto el enlace para vizualizar el sitio en la red y un enlace que contiene el plan para una campaña publicitaria, la cual sera la manera de captar usuarios para el sitio web.
 
-[Link del sitio](angelcruzo.github.io/vaccination-COVID/)
+[Link del sitio](https://angelcruzo.github.io/vaccination-COVID/)
 
 [Campaña publicitaria](https://miro.com/app/board/uXjVOGmpBL0=/?invite_link_id=651295536913)
